@@ -4,7 +4,7 @@ This repository contains basic practice programs for **SQL** and **MongoDB (NoSQ
 
 ## Files
 
-### 1. `EM Database.sql`
+### 1. `EM Schema.sql`
 
 Contains SQL queries demonstrating:
 
